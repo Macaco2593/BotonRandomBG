@@ -1,0 +1,11 @@
+#button{
+        background-color: gray;
+        color: white;
+        padding: 15px 30px;
+        font-size: 30px;
+        cursor: pointer;
+        margin: 40vh 40vh;
+}
+#body{
+    background-color: white;
+}
